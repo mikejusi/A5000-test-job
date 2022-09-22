@@ -1,0 +1,11 @@
+.all-managers-item{
+    display: flex;
+    justify-content: space-between;
+    width: fit-content;
+    padding: 5px 15px;
+}
+
+.all-managers{
+    display: flex;
+    flex-wrap: wrap;
+}
